@@ -1,0 +1,10 @@
+
+.element {
+    width: 500px;
+    height: 250px;
+    background-color: silver;
+    border-style: solid; /* стиль рамки в виде сплошной линии */
+    border-width: 3px; /* толщина рамки */
+    border-color: black; /* цвет рамки */
+    margin: 0 auto;
+}
